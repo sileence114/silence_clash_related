@@ -1,0 +1,4 @@
+# Health Network
+# Eh设置中可选择health network位置，选择地理位置较近的可直连
+DOMAIN-SUFFIX,hath.network
+DOMAIN,hath.network
